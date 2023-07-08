@@ -12,10 +12,10 @@
 * [@aeth/min.js](https://www.npmjs.com/package/@aeth/min.js)
 
 
-[AsXCore](https://www.npmjs.com/package/asxcore)
-[AsXCore](https://www.npmjs.com/package/asx-neural)
+* [AsXCore](https://www.npmjs.com/package/asxcore)
+* [AsXNeural](https://www.npmjs.com/package/asx-neural)
 
-[nitro-lib](https://www.npmjs.com/package/nitro-lib)
+* [nitro-lib](https://www.npmjs.com/package/nitro-lib)
 
 
 ### Examples:
