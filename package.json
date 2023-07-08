@@ -1,10 +1,10 @@
 {
   "name": "cubie",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Aethera/Cubie projects pack.",
   "main": "src/index.js",
   "scripts": {
-    "test": "node miscellany/test.js"
+    "test": "node miscellaneous/test.js"
   },
   "repository": {
     "type": "git",
