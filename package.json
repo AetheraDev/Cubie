@@ -1,0 +1,36 @@
+{
+  "name": "cubie",
+  "version": "1.0.0",
+  "description": "Aethera/Cubie projects pack.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node miscellany/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AetheraDev/Cubie.git"
+  },
+  "keywords": [
+    "Cubie",
+    "Aethera",
+    "iefw",
+    "iefw-native",
+    "anti-error",
+    "min.js",
+    "asx-core",
+    "asx-neural",
+    "asx",
+    "iecloud"
+  ],
+  "author": "Aethera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AetheraDev/Cubie/issues"
+  },
+  "homepage": "https://github.com/AetheraDev/Cubie#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "jaro-winkler": "^0.2.8",
+    "md5": "^2.3.0"
+  }
+}
