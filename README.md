@@ -49,7 +49,7 @@ Libs ID Name:
 
 `AntiError` - anti-error
 
-`AsXCore` - asx-core
+`AsXCore` - asxcore
 
 `AsXNeural` - asx-neural
 
